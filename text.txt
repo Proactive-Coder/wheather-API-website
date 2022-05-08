@@ -1,0 +1,5 @@
+7e184e7df89b322ab9e1c78be5ac8899
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q=patna&appid=7e184e7df89b322ab9e1c78be5ac8899
